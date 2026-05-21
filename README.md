@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./profile/stats.svg" height="180em" />
   <img src="./profile/top-langs.svg" height="180em" />
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" height="20%" />
 </p>
 
 <div style="display: inline_block"><br>
