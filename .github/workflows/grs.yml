@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide=Shell,Blade,Dockerfile&langs_count=6&theme=algolia&count_private=true
+          options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook,Shell,Blade,Dockerfile&langs_count=6&theme=algolia&count_private=true
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
 
